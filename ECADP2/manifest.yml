@@ -1,0 +1,6 @@
+  applications:
+   - name: Ddex_StuFeed
+     random-route: true
+     path: target/ECADP2.war
+     memory: 512M
+     instances: 1
